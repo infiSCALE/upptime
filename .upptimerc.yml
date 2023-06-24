@@ -9,7 +9,7 @@ sites:
     url: https://shop.infiscale.io
   - name: infiSCALE™ CMS
     url: https://www.infiscale.io/wp-admin/
-  - name: infiSCALE™ GraphQL
+  - name: infiSCALE™ GraphQL Endpoint
     url: https://www.infiscale.io/graphql/
 
 status-website:
@@ -19,8 +19,8 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: infiSCALE™
-  introTitle: "At **infiSCALE™**, we take pride in our dynamism and innovative approach toward software development services using some of the most dynamic products available within the Adobe suite of products such as Experience Manager, Commerce or Analytics- to name a few! Our key objective is centered around helping businesses from diverse fields realize the full potential of their software investments for transformative digital experiences."
-  introMessage: "We aim at building enduring partnerships with all our clients where adding exceptional value consistently is our topmost priority. Some examples would include end-to-end website creation management; insights-driven revenue growth optimization and pioneering experimentation strategies that enable fresh thinking and drive competitiveness amidst evolving challenges across industries. "
+  introTitle: "**infiSCALE™** - SOLVE FOR THE CUSTOMER"
+  introMessage: "At **infiSCALE™**, we take pride in our dynamism and innovative approach toward software development services using some of the most dynamic products available within the Adobe suite of products such as Experience Manager, Commerce or Analytics- to name a few! Our key objective is centered around helping businesses from diverse fields realize the full potential of their software investments for transformative digital experiences. We aim at building enduring partnerships with all our clients where adding exceptional value consistently is our topmost priority. Some examples would include end-to-end website creation management; insights-driven revenue growth optimization and pioneering experimentation strategies that enable fresh thinking and drive competitiveness amidst evolving challenges across industries. "
   navbar:
     - title: Status
       href: /
