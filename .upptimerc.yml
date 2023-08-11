@@ -11,6 +11,8 @@ sites:
     url: https://www.infiscale.io/wp-admin/
   - name: infiSCALE™ GraphQL Endpoint
     url: https://www.infiscale.io/graphql/
+  - name: infiSCALE™ Staging
+    url: https://cms.infiscale.io/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
