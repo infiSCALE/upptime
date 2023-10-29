@@ -22,19 +22,19 @@
     "url": "https://shop.infiscale.io",
     "icon": "https://icons.duckduckgo.com/ip3/shop.infiscale.io.ico",
     "slug": "infi-scale-magento-shop",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 665,
-    "timeDay": 567,
-    "timeWeek": 899,
-    "timeMonth": 710,
-    "timeYear": 665,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 666,
+    "timeDay": 670,
+    "timeWeek": 883,
+    "timeMonth": 712,
+    "timeYear": 666,
     "dailyMinutesDown": {
-      "2023-10-29": 0
+      "2023-10-29": 10
     }
   },
   {
