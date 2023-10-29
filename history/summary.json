@@ -4,11 +4,11 @@
     "url": "https://www.infiscale.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.44%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 352,
     "timeDay": 737,
@@ -16,7 +16,7 @@
     "timeMonth": 451,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2023-10-29": 37
+      "2023-10-29": 40
     }
   },
   {
@@ -42,10 +42,10 @@
     "url": "https://www.infiscale.io/wp-admin/",
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "99.66%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 1204,
@@ -54,7 +54,7 @@
     "timeMonth": 1301,
     "timeYear": 1204,
     "dailyMinutesDown": {
-      "2023-10-29": 34
+      "2023-10-29": 36
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://www.infiscale.io/graphql/",
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-graph-ql-endpoint",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 462,
     "timeDay": 641,
     "timeWeek": 538,
     "timeMonth": 481,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2023-10-29": 31
+      "2023-10-29": 16
     }
   }
 ]
