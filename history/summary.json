@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-home",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "96.34%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.97%",
     "time": 352,
     "timeDay": 737,
     "timeWeek": 804,
     "timeMonth": 451,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2023-10-29": 40
+      "2023-10-29": 53
     }
   },
   {
@@ -24,18 +24,20 @@
     "url": "https://shop.infiscale.io",
     "icon": "https://icons.duckduckgo.com/ip3/shop.infiscale.io.ico",
     "slug": "infi-scale-magento-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 665,
     "timeDay": 649,
     "timeWeek": 853,
     "timeMonth": 709,
     "timeYear": 665,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-29": 3
+    }
   },
   {
     "name": "infiSCALE™ CMS",
@@ -43,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-cms",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "97.53%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "96.65%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.97%",
     "time": 1204,
     "timeDay": 1378,
     "timeWeek": 1566,
     "timeMonth": 1301,
     "timeYear": 1204,
     "dailyMinutesDown": {
-      "2023-10-29": 36
+      "2023-10-29": 48
     }
   },
   {
@@ -63,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-graph-ql-endpoint",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 462,
     "timeDay": 641,
     "timeWeek": 538,
     "timeMonth": 481,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2023-10-29": 16
+      "2023-10-29": 29
     }
   }
 ]
