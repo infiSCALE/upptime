@@ -4,19 +4,19 @@
     "url": "https://www.infiscale.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-home",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.44%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 352,
-    "timeDay": 863,
-    "timeWeek": 853,
-    "timeMonth": 454,
+    "timeDay": 737,
+    "timeWeek": 804,
+    "timeMonth": 451,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2023-10-29": 22
+      "2023-10-29": 37
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://www.infiscale.io/wp-admin/",
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-cms",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 1203,
-    "timeDay": 1371,
-    "timeWeek": 1585,
-    "timeMonth": 1298,
-    "timeYear": 1203,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
+    "time": 1204,
+    "timeDay": 1378,
+    "timeWeek": 1566,
+    "timeMonth": 1301,
+    "timeYear": 1204,
     "dailyMinutesDown": {
-      "2023-10-29": 20
+      "2023-10-29": 34
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://www.infiscale.io/graphql/",
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-graph-ql-endpoint",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 460,
-    "timeDay": 611,
-    "timeWeek": 517,
-    "timeMonth": 473,
-    "timeYear": 460,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 462,
+    "timeDay": 641,
+    "timeWeek": 538,
+    "timeMonth": 481,
+    "timeYear": 462,
     "dailyMinutesDown": {
-      "2023-10-29": 16
+      "2023-10-29": 31
     }
   }
 ]
