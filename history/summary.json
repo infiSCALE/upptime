@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.94%",
-    "time": 371,
-    "timeDay": 453,
-    "timeWeek": 570,
+    "time": 370,
+    "timeDay": 255,
+    "timeWeek": 528,
     "timeMonth": 515,
-    "timeYear": 371,
+    "timeYear": 370,
     "dailyMinutesDown": {
       "2023-10-29": 117
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 672,
-    "timeDay": 696,
-    "timeWeek": 788,
-    "timeMonth": 750,
-    "timeYear": 672,
+    "time": 671,
+    "timeDay": 555,
+    "timeWeek": 748,
+    "timeMonth": 748,
+    "timeYear": 671,
     "dailyMinutesDown": {
       "2023-10-29": 17
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.94%",
-    "time": 1228,
-    "timeDay": 1333,
-    "timeWeek": 1640,
-    "timeMonth": 1403,
-    "timeYear": 1228,
+    "time": 1229,
+    "timeDay": 1330,
+    "timeWeek": 1711,
+    "timeMonth": 1408,
+    "timeYear": 1229,
     "dailyMinutesDown": {
       "2023-10-29": 110
     }
@@ -65,14 +65,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-graph-ql-endpoint",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 478,
-    "timeDay": 472,
-    "timeWeek": 785,
+    "timeDay": 443,
+    "timeWeek": 782,
     "timeMonth": 545,
     "timeYear": 478,
     "dailyMinutesDown": {
