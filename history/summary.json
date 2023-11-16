@@ -4,10 +4,10 @@
     "url": "https://www.infiscale.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.94%",
     "time": 449,
@@ -16,6 +16,7 @@
     "timeMonth": 862,
     "timeYear": 449,
     "dailyMinutesDown": {
+      "2023-11-16": 2,
       "2023-10-29": 117
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://shop.infiscale.io",
     "icon": "https://icons.duckduckgo.com/ip3/shop.infiscale.io.ico",
     "slug": "infi-scale-magento-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -36,6 +37,7 @@
     "timeMonth": 971,
     "timeYear": 726,
     "dailyMinutesDown": {
+      "2023-11-16": 0,
       "2023-10-29": 17
     }
   },
