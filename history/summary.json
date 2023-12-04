@@ -4,11 +4,11 @@
     "url": "https://www.infiscale.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "94.63%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "94.31%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.92%",
     "time": 435,
     "timeDay": 309,
@@ -16,7 +16,7 @@
     "timeMonth": 652,
     "timeYear": 435,
     "dailyMinutesDown": {
-      "2023-12-04": 27,
+      "2023-12-04": 32,
       "2023-12-03": 51,
       "2023-10-29": 117
     }
@@ -26,11 +26,11 @@
     "url": "https://shop.infiscale.io",
     "icon": "https://icons.duckduckgo.com/ip3/shop.infiscale.io.ico",
     "slug": "infi-scale-magento-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "91.21%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "90.99%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.94%",
     "time": 720,
     "timeDay": 607,
@@ -38,7 +38,7 @@
     "timeMonth": 878,
     "timeYear": 720,
     "dailyMinutesDown": {
-      "2023-12-04": 74,
+      "2023-12-04": 77,
       "2023-12-03": 54,
       "2023-10-29": 17
     }
@@ -48,10 +48,10 @@
     "url": "https://www.infiscale.io/wp-admin/",
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "94.83%",
-    "uptimeWeek": "99.26%",
+    "uptimeDay": "94.72%",
+    "uptimeWeek": "99.25%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.92%",
     "time": 1356,
@@ -60,7 +60,7 @@
     "timeMonth": 1791,
     "timeYear": 1356,
     "dailyMinutesDown": {
-      "2023-12-04": 25,
+      "2023-12-04": 27,
       "2023-12-03": 49,
       "2023-10-29": 110
     }
@@ -70,7 +70,7 @@
     "url": "https://www.infiscale.io/graphql/",
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-graph-ql-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "96.16%",
     "uptimeWeek": "99.45%",
