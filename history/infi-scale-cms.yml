@@ -1,7 +1,7 @@
 url: https://www.infiscale.io/wp-admin/
-status: up
-code: 200
-responseTime: 13514
-lastUpdated: 2024-11-12T23:01:05.842Z
+status: down
+code: 503
+responseTime: 97
+lastUpdated: 2024-11-13T19:45:48.616Z
 startTime: 2023-06-24T05:46:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
