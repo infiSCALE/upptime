@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.06%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "84.43%",
+    "uptimeWeek": "98.72%",
     "uptimeMonth": "96.06%",
-    "uptimeYear": "98.76%",
-    "time": 3378,
-    "timeDay": 6740,
-    "timeWeek": 5413,
-    "timeMonth": 5394,
-    "timeYear": 4441,
+    "uptimeYear": "99.03%",
+    "time": 3362,
+    "timeDay": 4226,
+    "timeWeek": 5460,
+    "timeMonth": 5416,
+    "timeYear": 4452,
     "dailyMinutesDown": {
       "2025-04-09": 235,
       "2025-04-08": 1440,
@@ -31,8 +31,7 @@
       "2024-05-13": 590,
       "2024-05-12": 39,
       "2024-04-18": 62,
-      "2024-04-17": 1044,
-      "2024-04-16": 1440
+      "2024-04-17": 1044
     }
   },
   {
@@ -45,12 +44,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.13%",
-    "time": 609,
-    "timeDay": 455,
-    "timeWeek": 389,
-    "timeMonth": 379,
-    "timeYear": 589,
+    "uptimeYear": "99.40%",
+    "time": 608,
+    "timeDay": 295,
+    "timeWeek": 398,
+    "timeMonth": 382,
+    "timeYear": 590,
     "dailyMinutesDown": {
       "2025-02-05": 46,
       "2024-12-06": 27,
@@ -58,8 +57,7 @@
       "2024-05-13": 590,
       "2024-05-12": 37,
       "2024-04-18": 35,
-      "2024-04-17": 1045,
-      "2024-04-16": 1440
+      "2024-04-17": 1045
     }
   },
   {
@@ -72,12 +70,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.11%",
-    "time": 3185,
-    "timeDay": 5985,
-    "timeWeek": 3696,
-    "timeMonth": 4778,
-    "timeYear": 3574,
+    "uptimeYear": "99.39%",
+    "time": 3187,
+    "timeDay": 2826,
+    "timeWeek": 3703,
+    "timeMonth": 4769,
+    "timeYear": 3582,
     "dailyMinutesDown": {
       "2025-02-05": 44,
       "2025-01-31": 23,
@@ -89,8 +87,7 @@
       "2024-05-13": 581,
       "2024-05-12": 36,
       "2024-04-18": 46,
-      "2024-04-17": 1045,
-      "2024-04-16": 1440
+      "2024-04-17": 1045
     }
   },
   {
@@ -99,18 +96,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-graph-ql-endpoint",
     "status": "down",
-    "uptime": "39.67%",
+    "uptime": "39.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2555,
-    "timeDay": 5844,
-    "timeWeek": 4109,
-    "timeMonth": 4590,
-    "timeYear": 3230,
+    "time": 2561,
+    "timeDay": 3387,
+    "timeWeek": 4194,
+    "timeMonth": 4612,
+    "timeYear": 3239,
     "dailyMinutesDown": {
-      "2025-04-15": 106,
+      "2025-04-16": 106,
+      "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -473,8 +471,7 @@
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
-      "2024-04-17": 1440,
-      "2024-04-16": 1440
+      "2024-04-17": 1440
     }
   }
 ]
