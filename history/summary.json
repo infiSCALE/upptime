@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.46%",
-    "time": 3654,
-    "timeDay": 4316,
-    "timeWeek": 6661,
-    "timeMonth": 5691,
-    "timeYear": 4456,
+    "time": 3660,
+    "timeDay": 3952,
+    "timeWeek": 7012,
+    "timeMonth": 5677,
+    "timeYear": 4458,
     "dailyMinutesDown": {
       "2025-05-05": 16,
       "2025-05-04": 22,
@@ -34,8 +34,7 @@
       "2024-12-06": 28,
       "2024-10-29": 38,
       "2024-10-09": 15,
-      "2024-05-13": 590,
-      "2024-05-12": 39
+      "2024-05-13": 590
     }
   },
   {
@@ -49,19 +48,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.84%",
-    "time": 650,
-    "timeDay": 291,
-    "timeWeek": 3906,
-    "timeMonth": 1290,
-    "timeYear": 589,
+    "time": 649,
+    "timeDay": 215,
+    "timeWeek": 449,
+    "timeMonth": 1281,
+    "timeYear": 588,
     "dailyMinutesDown": {
       "2025-04-26": 74,
       "2025-04-25": 4,
       "2025-02-05": 46,
       "2024-12-06": 27,
       "2024-05-30": 39,
-      "2024-05-13": 590,
-      "2024-05-12": 37
+      "2024-05-13": 590
     }
   },
   {
@@ -70,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-cms",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.68%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "55.51%",
-    "uptimeMonth": "89.54%",
-    "uptimeYear": "98.98%",
-    "time": 3097,
-    "timeDay": 3363,
-    "timeWeek": 5689,
-    "timeMonth": 4532,
-    "timeYear": 3670,
+    "uptimeWeek": "41.24%",
+    "uptimeMonth": "86.26%",
+    "uptimeYear": "98.70%",
+    "time": 3098,
+    "timeDay": 3603,
+    "timeWeek": 5150,
+    "timeMonth": 4545,
+    "timeYear": 3671,
     "dailyMinutesDown": {
-      "2025-05-11": 114,
+      "2025-05-12": 113,
+      "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
@@ -96,8 +95,7 @@
       "2025-01-16": 26,
       "2024-12-06": 26,
       "2024-10-09": 15,
-      "2024-05-13": 581,
-      "2024-05-12": 36
+      "2024-05-13": 581
     }
   },
   {
@@ -106,18 +104,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-graph-ql-endpoint",
     "status": "down",
-    "uptime": "38.17%",
+    "uptime": "38.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2713,
-    "timeDay": 3531,
-    "timeWeek": 3157,
-    "timeMonth": 3820,
-    "timeYear": 3284,
+    "time": 2719,
+    "timeDay": 3390,
+    "timeWeek": 3234,
+    "timeMonth": 3819,
+    "timeYear": 3286,
     "dailyMinutesDown": {
-      "2025-05-11": 114,
+      "2025-05-12": 113,
+      "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
@@ -480,8 +479,7 @@
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
-      "2024-05-13": 1440,
-      "2024-05-12": 1440
+      "2024-05-13": 1440
     }
   }
 ]
