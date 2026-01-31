@@ -10,11 +10,11 @@
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.55%",
-    "time": 4535,
-    "timeDay": 3547,
-    "timeWeek": 3470,
-    "timeMonth": 4372,
-    "timeYear": 4483,
+    "time": 4536,
+    "timeDay": 4117,
+    "timeWeek": 3426,
+    "timeMonth": 4378,
+    "timeYear": 4485,
     "dailyMinutesDown": {
       "2026-01-27": 42,
       "2026-01-13": 62,
@@ -30,8 +30,7 @@
       "2025-04-08": 1440,
       "2025-04-07": 50,
       "2025-02-27": 16,
-      "2025-02-05": 47,
-      "2025-01-31": 33
+      "2025-02-05": 47
     }
   },
   {
@@ -46,9 +45,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
     "time": 494,
-    "timeDay": 383,
-    "timeWeek": 345,
-    "timeMonth": 362,
+    "timeDay": 452,
+    "timeWeek": 344,
+    "timeMonth": 365,
     "timeYear": 476,
     "dailyMinutesDown": {
       "2026-01-27": 42,
@@ -69,10 +68,10 @@
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "95.42%",
-    "time": 3691,
-    "timeDay": 3160,
-    "timeWeek": 2545,
-    "timeMonth": 3099,
+    "time": 3690,
+    "timeDay": 3082,
+    "timeWeek": 2575,
+    "timeMonth": 3093,
     "timeYear": 3580,
     "dailyMinutesDown": {
       "2026-01-27": 42,
@@ -98,8 +97,7 @@
       "2025-05-03": 20,
       "2025-04-26": 74,
       "2025-04-25": 2,
-      "2025-02-05": 44,
-      "2025-01-31": 23
+      "2025-02-05": 44
     }
   },
   {
@@ -108,18 +106,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-graph-ql-endpoint",
     "status": "down",
-    "uptime": "27.57%",
+    "uptime": "27.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 3219,
-    "timeDay": 1633,
-    "timeWeek": 1664,
-    "timeMonth": 1767,
-    "timeYear": 3166,
+    "time": 3217,
+    "timeDay": 1878,
+    "timeWeek": 1704,
+    "timeMonth": 1770,
+    "timeYear": 3164,
     "dailyMinutesDown": {
-      "2026-01-30": 145,
+      "2026-01-31": 141,
+      "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
@@ -482,8 +481,7 @@
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
-      "2025-02-01": 1440,
-      "2025-01-31": 1440
+      "2025-02-01": 1440
     }
   }
 ]
