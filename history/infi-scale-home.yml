@@ -1,7 +1,7 @@
 url: https://www.infiscale.io
-status: up
-code: 200
-responseTime: 4129
-lastUpdated: 2026-04-05T17:46:41.216Z
+status: down
+code: 500
+responseTime: 362
+lastUpdated: 2026-04-05T19:08:17.013Z
 startTime: 2023-06-24T05:46:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
