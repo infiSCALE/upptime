@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.88%",
-    "time": 4538,
-    "timeDay": 3859,
-    "timeWeek": 4409,
-    "timeMonth": 4840,
-    "timeYear": 4473,
+    "time": 4542,
+    "timeDay": 5718,
+    "timeWeek": 4706,
+    "timeMonth": 4868,
+    "timeYear": 4478,
     "dailyMinutesDown": {
       "2026-04-10": 53,
       "2026-04-05": 83,
@@ -26,8 +26,7 @@
       "2025-11-18": 195,
       "2025-07-16": 25,
       "2025-05-05": 16,
-      "2025-05-04": 22,
-      "2025-05-03": 22
+      "2025-05-04": 22
     }
   },
   {
@@ -42,10 +41,10 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.92%",
     "time": 468,
-    "timeDay": 389,
-    "timeWeek": 400,
-    "timeMonth": 497,
-    "timeYear": 490,
+    "timeDay": 485,
+    "timeWeek": 427,
+    "timeMonth": 503,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2026-04-22": 148,
       "2026-03-25": 54,
@@ -64,11 +63,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "95.41%",
-    "time": 3600,
-    "timeDay": 3546,
-    "timeWeek": 3975,
-    "timeMonth": 3848,
-    "timeYear": 3513,
+    "time": 3601,
+    "timeDay": 4435,
+    "timeWeek": 4139,
+    "timeMonth": 3850,
+    "timeYear": 3515,
     "dailyMinutesDown": {
       "2026-04-10": 52,
       "2026-04-05": 42,
@@ -93,8 +92,7 @@
       "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
-      "2025-05-07": 50,
-      "2025-05-03": 20
+      "2025-05-07": 50
     }
   },
   {
@@ -103,18 +101,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-graph-ql-endpoint",
     "status": "down",
-    "uptime": "25.14%",
+    "uptime": "25.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2959,
-    "timeDay": 1780,
-    "timeWeek": 2107,
-    "timeMonth": 2002,
-    "timeYear": 2693,
+    "time": 2958,
+    "timeDay": 2715,
+    "timeWeek": 2088,
+    "timeMonth": 2018,
+    "timeYear": 2692,
     "dailyMinutesDown": {
-      "2026-05-02": 199,
+      "2026-05-03": 217,
+      "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
@@ -477,8 +476,7 @@
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
-      "2025-05-04": 1440,
-      "2025-05-03": 1440
+      "2025-05-04": 1440
     }
   }
 ]
