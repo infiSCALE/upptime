@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 4561,
-    "timeDay": 4118,
-    "timeWeek": 4266,
-    "timeMonth": 4328,
-    "timeYear": 4433,
+    "timeDay": 3785,
+    "timeWeek": 4252,
+    "timeMonth": 4331,
+    "timeYear": 4432,
     "dailyMinutesDown": {
       "2026-04-10": 53,
       "2026-04-05": 83,
@@ -39,9 +39,9 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.92%",
     "time": 476,
-    "timeDay": 379,
-    "timeWeek": 1111,
-    "timeMonth": 506,
+    "timeDay": 262,
+    "timeWeek": 1100,
+    "timeMonth": 504,
     "timeYear": 425,
     "dailyMinutesDown": {
       "2026-04-22": 148,
@@ -60,11 +60,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.66%",
-    "time": 3628,
-    "timeDay": 3487,
-    "timeWeek": 3923,
-    "timeMonth": 3945,
+    "uptimeYear": "97.93%",
+    "time": 3629,
+    "timeDay": 3152,
+    "timeWeek": 3929,
+    "timeMonth": 3936,
     "timeYear": 3482,
     "dailyMinutesDown": {
       "2026-04-10": 52,
@@ -79,8 +79,7 @@
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
-      "2025-05-18": 1440,
-      "2025-05-17": 1440
+      "2025-05-18": 1440
     }
   },
   {
@@ -89,18 +88,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-graph-ql-endpoint",
     "status": "down",
-    "uptime": "24.81%",
+    "uptime": "24.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2930,
-    "timeDay": 2205,
-    "timeWeek": 2294,
-    "timeMonth": 2156,
-    "timeYear": 2655,
+    "time": 2928,
+    "timeDay": 1993,
+    "timeWeek": 2271,
+    "timeMonth": 2167,
+    "timeYear": 2652,
     "dailyMinutesDown": {
-      "2026-05-16": 211,
+      "2026-05-17": 229,
+      "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -463,8 +463,7 @@
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
-      "2025-05-18": 1440,
-      "2025-05-17": 1440
+      "2025-05-18": 1440
     }
   }
 ]
