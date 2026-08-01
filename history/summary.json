@@ -82,17 +82,17 @@
     "url": "https://www.infiscale.io/graphql/",
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-graph-ql-endpoint",
-    "status": "down",
+    "status": "up",
     "uptime": "23.13%",
-    "uptimeDay": "11.93%",
-    "uptimeWeek": "1.70%",
+    "uptimeDay": "8.85%",
+    "uptimeWeek": "1.71%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.03%",
-    "time": 3071,
-    "timeDay": 1726,
-    "timeWeek": 2164,
-    "timeMonth": 2228,
-    "timeYear": 2815,
+    "time": 3066,
+    "timeDay": 1778,
+    "timeWeek": 1980,
+    "timeMonth": 2172,
+    "timeYear": 2808,
     "dailyMinutesDown": {
       "2026-07-31": 1268,
       "2026-07-30": 1440,
@@ -458,7 +458,7 @@
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
-      "2026-08-01": 197
+      "2026-08-01": 280
     }
   }
 ]
