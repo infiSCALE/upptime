@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-home",
     "status": "down",
-    "uptime": "99.32%",
+    "uptime": "99.31%",
     "uptimeDay": "0.82%",
-    "uptimeWeek": "85.80%",
-    "uptimeMonth": "96.73%",
-    "uptimeYear": "99.61%",
+    "uptimeWeek": "84.52%",
+    "uptimeMonth": "96.44%",
+    "uptimeYear": "99.59%",
     "time": 4757,
     "timeDay": 426,
     "timeWeek": 3152,
@@ -26,7 +26,7 @@
       "2026-04-10": 53,
       "2026-05-17": 56,
       "2026-08-01": 993,
-      "2026-08-02": 439
+      "2026-08-02": 568
     }
   },
   {
@@ -37,9 +37,9 @@
     "status": "down",
     "uptime": "99.45%",
     "uptimeDay": "0.83%",
-    "uptimeWeek": "85.80%",
-    "uptimeMonth": "96.73%",
-    "uptimeYear": "99.64%",
+    "uptimeWeek": "84.52%",
+    "uptimeMonth": "96.44%",
+    "uptimeYear": "99.61%",
     "time": 592,
     "timeDay": 564,
     "timeWeek": 491,
@@ -52,7 +52,7 @@
       "2026-04-22": 148,
       "2026-05-17": 55,
       "2026-08-01": 993,
-      "2026-08-02": 439
+      "2026-08-02": 568
     }
   },
   {
@@ -60,17 +60,17 @@
     "url": "https://www.infiscale.io/wp-admin/",
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-cms",
-    "status": "up",
+    "status": "down",
     "uptime": "98.00%",
-    "uptimeDay": "0.87%",
-    "uptimeWeek": "85.81%",
+    "uptimeDay": "9.79%",
+    "uptimeWeek": "85.80%",
     "uptimeMonth": "96.73%",
     "uptimeYear": "99.64%",
-    "time": 3581,
-    "timeDay": 378,
-    "timeWeek": 2528,
-    "timeMonth": 1098,
-    "timeYear": 3516,
+    "time": 3576,
+    "timeDay": 438,
+    "timeWeek": 2354,
+    "timeMonth": 1084,
+    "timeYear": 3508,
     "dailyMinutesDown": {
       "2025-11-18": 195,
       "2026-01-27": 42,
@@ -464,7 +464,7 @@
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2026-08-01": 1271,
-      "2026-08-02": 439
+      "2026-08-02": 568
     }
   }
 ]
