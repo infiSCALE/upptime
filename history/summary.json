@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-home",
     "status": "down",
-    "uptime": "99.31%",
+    "uptime": "99.30%",
     "uptimeDay": "0.82%",
-    "uptimeWeek": "84.52%",
-    "uptimeMonth": "96.44%",
-    "uptimeYear": "99.59%",
+    "uptimeWeek": "82.89%",
+    "uptimeMonth": "96.06%",
+    "uptimeYear": "99.56%",
     "time": 4757,
     "timeDay": 426,
     "timeWeek": 3152,
@@ -26,7 +26,7 @@
       "2026-04-10": 53,
       "2026-05-17": 56,
       "2026-08-01": 993,
-      "2026-08-02": 568
+      "2026-08-02": 732
     }
   },
   {
@@ -35,11 +35,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.infiscale.io.ico",
     "slug": "infi-scale-magento-shop",
     "status": "down",
-    "uptime": "99.45%",
+    "uptime": "99.44%",
     "uptimeDay": "0.83%",
-    "uptimeWeek": "84.52%",
-    "uptimeMonth": "96.44%",
-    "uptimeYear": "99.61%",
+    "uptimeWeek": "82.89%",
+    "uptimeMonth": "96.06%",
+    "uptimeYear": "99.58%",
     "time": 592,
     "timeDay": 564,
     "timeWeek": 491,
@@ -52,7 +52,7 @@
       "2026-04-22": 148,
       "2026-05-17": 55,
       "2026-08-01": 993,
-      "2026-08-02": 568
+      "2026-08-02": 732
     }
   },
   {
@@ -60,17 +60,17 @@
     "url": "https://www.infiscale.io/wp-admin/",
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-cms",
-    "status": "down",
-    "uptime": "98.00%",
-    "uptimeDay": "9.79%",
-    "uptimeWeek": "85.80%",
-    "uptimeMonth": "96.73%",
-    "uptimeYear": "99.64%",
-    "time": 3576,
-    "timeDay": 438,
-    "timeWeek": 2354,
-    "timeMonth": 1084,
-    "timeYear": 3508,
+    "status": "up",
+    "uptime": "97.99%",
+    "uptimeDay": "9.81%",
+    "uptimeWeek": "84.18%",
+    "uptimeMonth": "96.36%",
+    "uptimeYear": "99.61%",
+    "time": 3570,
+    "timeDay": 413,
+    "timeWeek": 2184,
+    "timeMonth": 1063,
+    "timeYear": 3499,
     "dailyMinutesDown": {
       "2025-11-18": 195,
       "2026-01-27": 42,
@@ -80,7 +80,7 @@
       "2026-04-10": 52,
       "2026-05-17": 54,
       "2026-08-01": 992,
-      "2026-08-02": 439
+      "2026-08-02": 603
     }
   },
   {
@@ -89,7 +89,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-graph-ql-endpoint",
     "status": "down",
-    "uptime": "23.12%",
+    "uptime": "23.11%",
     "uptimeDay": "0.86%",
     "uptimeWeek": "3.38%",
     "uptimeMonth": "0.00%",
@@ -464,7 +464,7 @@
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2026-08-01": 1271,
-      "2026-08-02": 568
+      "2026-08-02": 732
     }
   }
 ]
