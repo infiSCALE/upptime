@@ -4,17 +4,17 @@
     "url": "https://www.infiscale.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.31%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "93.30%",
     "uptimeYear": "99.33%",
-    "time": 4713,
-    "timeDay": 3773,
-    "timeWeek": 4170,
-    "timeMonth": 3869,
-    "timeYear": 4772,
+    "time": 4707,
+    "timeDay": 2526,
+    "timeWeek": 3809,
+    "timeMonth": 3795,
+    "timeYear": 4763,
     "dailyMinutesDown": {
       "2025-11-18": 195,
       "2026-01-13": 62,
@@ -27,7 +27,8 @@
       "2026-05-17": 56,
       "2026-08-01": 993,
       "2026-08-03": 498,
-      "2026-08-02": 1440
+      "2026-08-02": 1440,
+      "2026-08-13": 3
     }
   },
   {
@@ -62,17 +63,17 @@
     "url": "https://www.infiscale.io/wp-admin/",
     "icon": "https://icons.duckduckgo.com/ip3/www.infiscale.io.ico",
     "slug": "infi-scale-cms",
-    "status": "up",
+    "status": "down",
     "uptime": "97.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.73%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "94.72%",
     "uptimeYear": "99.47%",
-    "time": 3513,
-    "timeDay": 3195,
-    "timeWeek": 3761,
-    "timeMonth": 1885,
-    "timeYear": 3475,
+    "time": 3534,
+    "timeDay": 8449,
+    "timeWeek": 5004,
+    "timeMonth": 2173,
+    "timeYear": 3502,
     "dailyMinutesDown": {
       "2025-11-18": 195,
       "2026-01-27": 42,
@@ -83,7 +84,8 @@
       "2026-05-17": 54,
       "2026-08-01": 992,
       "2026-08-02": 1111,
-      "2026-08-03": 208
+      "2026-08-03": 208,
+      "2026-08-13": 1
     }
   },
   {
@@ -466,7 +468,7 @@
       "2026-08-11": 1331,
       "2026-08-10": 1440,
       "2026-08-09": 1440,
-      "2026-08-13": 616,
+      "2026-08-13": 670,
       "2026-08-12": 1440
     }
   }
