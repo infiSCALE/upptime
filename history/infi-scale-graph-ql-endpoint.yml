@@ -1,7 +1,7 @@
 url: https://www.infiscale.io/graphql/
-status: up
-code: 200
-responseTime: 175
-lastUpdated: 2026-08-25T15:23:17.983Z
+status: down
+code: 404
+responseTime: 2242
+lastUpdated: 2026-08-25T16:07:25.252Z
 startTime: 2023-06-24T06:12:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
